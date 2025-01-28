@@ -1,3 +1,5 @@
+// Variable and comments
+
 // this is a comment
 
 #include <iostream>

@@ -1,3 +1,5 @@
+// refercence variable and typecasting
+
 #include <iostream>
 using namespace std;
 
