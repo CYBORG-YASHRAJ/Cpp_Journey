@@ -55,6 +55,10 @@ int main()
     */
 
     // do while loop in c++
+    /*
+    do{
+        C++ statement
+    }while (condition)*/
     int j = 1;
     do
     {
