@@ -1,3 +1,9 @@
+/**
+ * The function takes user input for age and uses if-else ladder to determine party eligibility,
+ * followed by a switch case statement to print messages based on the age entered.
+ *
+ * @return The program will return 0 as the final output.
+ */
 #include <iostream>
 using namespace std;
 int main()
