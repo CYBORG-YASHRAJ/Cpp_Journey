@@ -51,7 +51,7 @@ void binary ::chk_bin(void)
 }
 void binary ::ones_compliment(void)
 {
-    chk_bin();
+    chk_bin();  // nesting of memeber function
     for (int i = 0; i < s.length(); i++)
     {
         if (s.at(i) == '0')
