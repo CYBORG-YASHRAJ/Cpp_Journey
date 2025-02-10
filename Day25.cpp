@@ -17,8 +17,9 @@ public:
     {
         cout << "the id of this employee is: " << id << "and this is employee number" << count << endl;
     }
-    static void getcount(void)
+    static void getcount(void) // static function
     {
+        // cout<<id;   will give error bcs it can only access static variable
         cout << "the value of count is" << count << endl;
     }
 };
