@@ -15,7 +15,7 @@ public:
     {
         cout << "The point is (" << x << "," << y << ")" << endl;
     }
-    // void distance();
+    void distance();
     friend void distance(point p1, point p2);
 };
 void distance(point p1, point p2)
