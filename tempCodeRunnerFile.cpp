@@ -1,5 +1,2 @@
-number(number &obj)
-    // {
-    //     cout << "copy constructor call" << endl;
-    //     a = obj.a;
-    // }
+complex c1;
+    // complex *ptr = &c1;
